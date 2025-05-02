@@ -1,0 +1,10 @@
+{
+  "New York University": {
+    "mfa": "allowed",
+    "documentation": "https://www.nyu.edu/life/information-technology/accounts-and-access/access/mfa.html",
+    "categories": "universities",
+    "regions": [
+      "us"
+    ]
+  }
+}
